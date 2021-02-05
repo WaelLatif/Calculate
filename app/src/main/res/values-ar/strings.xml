@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب</string>
+    <string name="areas_rectangle_width_hint">العرض</string>
+    <string name="areas_rectangle_height_hint">الطول</string>
+    <string name="areas_circle_radius_hint">نصف القطر</string>
+    <string name="areas_triangle_base_hint">القاعدة</string>
+    <string name="areas_triangle_height_hint">الأرتفاع</string>
+    <string name="areas_calculate_text">حساب</string>
+
+    <string-array name="shapes">
+        <item>اختار شكل</item>
+        <item>مستطيل</item>
+        <item>دائرة</item>
+        <item>مثلث</item>
+
+    </string-array>
+
+</resources>
